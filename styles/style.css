@@ -11,7 +11,7 @@ body {
 
 header {
     transition: all 0.3s ease;
-    background-image: url("/images/texture-backgrounds-pattern-decorating-rose-bright-1419184-pxhere.com.jpg");
+    background-image: url("./images/texture-backgrounds-pattern-decorating-rose-bright-1419184-pxhere.com.jpg"); 
     background-repeat: repeat-x;
     background-size: 30%;
     background-position: left;
