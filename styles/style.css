@@ -11,7 +11,7 @@ body {
 
 header {
     transition: all 0.3s ease;
-    background-image: url("./images/texture-backgrounds-pattern-decorating-rose-bright-1419184-pxhere.com.jpg"); 
+    background-image: url("../images/texture-backgrounds-pattern-decorating-rose-bright-1419184-pxhere.com.jpg"); 
     background-repeat: repeat-x;
     background-size: 30%;
     background-position: left;
@@ -70,19 +70,19 @@ header:hover {
 }
 
 #Topo {
-    background-image: url("/images/VistaDaAcropole.png");
+    background-image: url("../images/VistaDaAcropole.png");
 }
 
 #QuemSouEu {
     height: 710vh;
-    background-image: url("/images/AtenaDesenho.png");
+    background-image: url("../images/AtenaDesenho.png");
 }
 
 #Mitos {
     background-size: cover;
     height: clamp(570vh, 600dvh, 510dvh);
     min-height: 350vh;
-    background-image: url("/images/AtenaFundao.png");
+    background-image: url("../images/AtenaFundao.png");
     position: relative;
 }
 
@@ -93,13 +93,13 @@ header:hover {
 
 #Indicacoes {
     height: 230vh;
-    background-image: url("/images/cerebros.png");
+    background-image: url("../images/cerebros.png");
     background-color: rgba(0, 255, 255, 0.33);
 }
 
 #Autor {
     height: 110vh;
-    background-image: url("/images/VistaDaAcropole.png");
+    background-image: url("../images/VistaDaAcropole.png");
 }
 
 .primeira_pagina {
@@ -370,7 +370,7 @@ header:hover {
     background-size: cover;
     background-position: center;
     height: 100vh;
-    background-image: url("/images/PadraoGrego.png");
+    background-image: url("../images/PadraoGrego.png");
     display: flex;
     gap: 3vw;
     top: 100vh;
